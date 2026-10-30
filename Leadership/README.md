@@ -20,6 +20,10 @@ Analysis of short written explanations of leadership behavior: word counts, cate
 - `data_categorization_analysis*.xlsx` — categorization results, including author splits and an LLM-assisted pass (`data_categorization_analysis_llm.xlsx`).
 - `categorized_explanations*.xlsx` — explanations with their assigned categories.
 
+## Related publication
+
+Morley Katz, Frank Safayeni, Ahmad Tanehkar, “What Makes Us See Someone as a Leader”, Journal of Change Management (2024). https://doi.org/10.1080/14697017.2024.2345077
+
 ## Run it
 
 Open `leadership.ipynb` in Jupyter. Requires pandas (and openpyxl for the Excel outputs).
